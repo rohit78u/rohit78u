@@ -2,7 +2,7 @@
 
 ### Python Backend Developer | Data Science
 
-I build **backend systems and data-driven applications** using Python, FastAPI, REST APIs, databases, and modern DevOps practices.
+I build **backend systems and data-driven applications** using Python, FastAPI, REST APIs, SQL, databases, and DevOps practices.
 
 - 🔭 Building backend and data-focused projects with **Python + FastAPI**
 - 🌱 Strengthening **REST APIs, SQL, SQLAlchemy, PostgreSQL, Docker, and CI/CD**
@@ -76,10 +76,17 @@ Backend-focused healthcare platform built with **FastAPI, PostgreSQL, SQLAlchemy
 
 [View Repository →](https://github.com/rohit78u/Medi-connect)
 
+### 🏠 Bengaluru Home Price Prediction
+End-to-end **Data Science and Machine Learning** project using Python, Pandas, NumPy, Scikit-learn, regression models, and Streamlit.
+
+**Focus:** Data cleaning, feature engineering, model evaluation, price prediction, visualization, and ML deployment.
+
+[View Repository →](https://github.com/rohit78u/Banglore-Home-price-Prediction)
+
 ### ⚙️ CI/CD Practice
 Hands-on CI/CD project using **GitHub Actions, pytest, Python, Git branching, and automated workflows**.
 
-**Focus:** Automated testing and continuous integration practices.
+**Focus:** Automated testing, linting, and continuous integration practices.
 
 [View Repository →](https://github.com/rohit78u/ci-cd-day4)
 
@@ -90,11 +97,11 @@ Hands-on CI/CD project using **GitHub Actions, pytest, Python, Git branching, an
 ```text
 REST APIs → SQL → SQLAlchemy → PostgreSQL → Authentication
                          ↓
-                 Docker → CI/CD
+                    Docker → CI/CD
                          ↓
-              Backend Architecture
+               Backend Architecture
                          ↓
-             Data Science / ML Systems
+              DSA + CS Fundamentals
 ```
 
 ---
