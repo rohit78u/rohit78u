@@ -19,21 +19,9 @@ I build **backend systems and AI-powered applications** using Python, FastAPI, R
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 🧠 DSA
 
-Placement-focused problem solving in:
-
-- Arrays & Strings
-- Hashing
-- Two Pointers & Sliding Window
-- Binary Search
-- Linked Lists
-- Stacks & Queues
-- Recursion & Backtracking
-- Trees & Binary Search Trees
-- Heaps
-- Graphs
-- Dynamic Programming
+Placement-focused problem solving and preparation.
 
 ---
 
