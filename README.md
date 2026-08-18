@@ -1,14 +1,14 @@
 # Hi, I'm Rohit 👋
 
-### Python Backend Developer | AI/ML Engineer
+### Python Backend Developer | Data Science
 
-I build **backend systems and AI-powered applications** using Python, FastAPI, REST APIs, databases, and modern DevOps practices.
+I build **backend systems and data-driven applications** using Python, FastAPI, REST APIs, databases, and modern DevOps practices.
 
-- 🔭 Building backend and AI projects with **Python + FastAPI**
+- 🔭 Building backend and data-focused projects with **Python + FastAPI**
 - 🌱 Strengthening **REST APIs, SQL, SQLAlchemy, PostgreSQL, Docker, and CI/CD**
-- 🤖 Interested in **AI/ML, RAG systems, LLM applications, and ML inference APIs**
+- 📊 Interested in **Data Science, Machine Learning, RAG systems, and LLM applications**
 - 🧪 Focused on maintainable code, API testing, and clean backend architecture
-- 🎯 Preparing for **Software Engineering / Python Backend / AI Engineer** placements
+- 🎯 Preparing for **Software Engineering / Python Backend / Data Science** placements
 
 ---
 
@@ -94,7 +94,7 @@ REST APIs → SQL → SQLAlchemy → PostgreSQL → Authentication
                          ↓
               Backend Architecture
                          ↓
-             AI / RAG / LLM Systems
+             Data Science / ML Systems
 ```
 
 ---
@@ -105,9 +105,9 @@ I'm looking for opportunities where I can work on:
 
 - Python backend development
 - REST API development
-- AI/ML engineering
+- Data Science & Machine Learning
 - Backend systems and databases
-- AI-powered applications
+- Data-driven applications
 - Software engineering
 
 ---
