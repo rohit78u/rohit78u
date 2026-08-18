@@ -2,7 +2,7 @@
 
 ### Python Backend Developer | AI/ML Engineer
 
-I build **production-oriented backend systems and AI-powered applications** using Python, FastAPI, REST APIs, databases, and modern DevOps practices.
+I build **backend systems and AI-powered applications** using Python, FastAPI, REST APIs, databases, and modern DevOps practices.
 
 - 🔭 Building backend and AI projects with **Python + FastAPI**
 - 🌱 Strengthening **REST APIs, SQL, SQLAlchemy, PostgreSQL, Docker, and CI/CD**
@@ -12,10 +12,45 @@ I build **production-oriented backend systems and AI-powered applications** usin
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Programming Languages
 
-### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+Placement-focused problem solving in:
+
+- Arrays & Strings
+- Hashing
+- Two Pointers & Sliding Window
+- Binary Search
+- Linked Lists
+- Stacks & Queues
+- Recursion & Backtracking
+- Trees & Binary Search Trees
+- Heaps
+- Graphs
+- Dynamic Programming
+
+---
+
+## 📚 CS Fundamentals
+
+- Object-Oriented Programming (OOP)
+- DBMS
+- Operating Systems
+- Computer Networks
+- SQL
+- REST APIs
+- Software Engineering
+
+---
+
+## 🛠️ Backend & Development
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
